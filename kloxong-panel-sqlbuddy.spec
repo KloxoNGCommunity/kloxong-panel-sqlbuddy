@@ -43,5 +43,5 @@ SQL Buddy ? Web based MySQL administration.
 - change product name to kloxong
 - add obsolete for kloxomr 
 
-* Sun Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 1.3.3-1.mr
+* Sat Aug 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 1.3.3-1.mr
 - make rpm for Kloxo-MR
